@@ -72,7 +72,7 @@ Portfolio Projects
 User authentication using JWT
 Role-based access (Client / Freelancer)
 Bidding system for projects
-
 Real-time chat functionality
-
 Cloud deployment (Netlify / Render)
+
+
